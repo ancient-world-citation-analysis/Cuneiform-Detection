@@ -1,6 +1,9 @@
 # Cuneiform-Detection
 This repository primarily focuses on the detection and deciphering of Cuneiform languages using machine learning models and natural language processing (NLP) techniques.
 
+## Authors
+- Adam Anderson (PI)
+- Zizhuo (Tina) Chen
 ## Project Overview
 
 The primary goal of this project is to accurately translate the Cuneiform languages (e.g. Sumerian, Akkadian, Hittite, etc.), ensuring the preservation of its original meaning, into contemporary languages.
