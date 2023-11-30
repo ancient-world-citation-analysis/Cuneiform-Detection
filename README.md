@@ -49,7 +49,7 @@ The methodology of the "Building a Language Model for the Cuneiform Language Sys
    - Since the raw data mainly consists of secondary resources, Language detection is employed to identify the various languages present in the texts. We have developed `language_detect.ipynb` to identify the language within the text.
    - Lemmatization is applied to bring words to their base or dictionary form. This process aids in the standardization of data, especially important for ancient languages.
 
-** 4. Sentence Segmentation:**
+**4. Sentence Segmentation:**
    -  - Sentence segmentation is then conducted using `sentences_strict.ipynb`, transitioning the data from word level to sentence level, crucial for detailed linguistic analysis.
       - We have implemented the rule-based approach to segment the text from page level to sentence level for later translation. We still want to use machine learning models such Hidden Markov Model or Neural Network Model to increase the accuracy. 
 
