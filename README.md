@@ -14,7 +14,7 @@ This structured approach is essential for the accurate processing and analysis o
 other underrepresented languages. To achieve this, we are leveraging Large Language Models (LLMs), which are highly effective in various linguistic tasks. These models enable us 
 to delve deeper into the linguistic nuances of Cuneiform and similar low-resource languages, facilitating a better understanding and more accurate translations into modern languages.
 
-### Data Overview
+## Data Overview
 
 **Data Structure:**
 - The data for this project is meticulously organized and stored in Google Drive. It encompasses over 13,000 files, primarily structured at the page level and categorized based on different books.
@@ -35,7 +35,7 @@ to delve deeper into the linguistic nuances of Cuneiform and similar low-resourc
 The data structure and processing techniques in this project are designed to tackle the unique challenges of working with ancient texts, particularly in the context of low-resource languages like Cuneiform. 
 Through these efforts, we aim to construct a comprehensive language model that can effectively translate and interpret these ancient scripts.
 
-### Methodology
+## Methodology
 ### Methodology for the Cuneiform Language System Project
 
 The methodology of the "Building a Language Model for the Cuneiform Language System" project is multi-faceted, incorporating various data science and natural language processing (NLP) techniques to analyze and interpret the Cuneiform language.
