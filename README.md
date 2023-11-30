@@ -3,7 +3,7 @@ This repository primarily focuses on the detection and deciphering of Cuneiform 
 
 ## Project Overview
 
-The primary goal of this project is to accurately translate the Cuneiform language, ensuring the preservation of its original meaning, into contemporary languages.
+The primary goal of this project is to accurately translate the Cuneiform languages (e.g. Sumerian, Akkadian, Hittite, etc.), ensuring the preservation of its original meaning, into contemporary languages.
 We are employing a comprehensive range of data science techniques, including text classification and advanced natural language processing (NLP) methods such as dependency parsing.
 These techniques are pivotal in understanding and interpreting the complex structure of the Cuneiform language. Our methodology involves a systematic data-gathering process.
 We utilize a rule-based approach to meticulously segment text from Cuneiform texts, moving from the page level to word and sentence levels. 
