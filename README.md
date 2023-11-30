@@ -50,8 +50,8 @@ The methodology of the "Building a Language Model for the Cuneiform Language Sys
    - Lemmatization is applied to bring words to their base or dictionary form. This process aids in the standardization of data, especially important for ancient languages.
 
 **4. Sentence Segmentation:**
-   -  - Sentence segmentation is then conducted using `sentences_strict.ipynb`, transitioning the data from word level to sentence level, crucial for detailed linguistic analysis.
-      - We have implemented the rule-based approach to segment the text from page level to sentence level for later translation. We still want to use machine learning models such Hidden Markov Model or Neural Network Model to increase the accuracy. 
+  -  Sentence segmentation is then conducted using `sentences_strict.ipynb`, transitioning the data from word level to sentence level, crucial for detailed linguistic analysis.
+  - We have implemented the rule-based approach to segment the text from page level to sentence level for later translation. We still want to use machine learning models such Hidden Markov Model or Neural Network Model to increase the accuracy. 
 
 **5. Dependency Parsing:**
    - The project aims to construct dependency parsers for Cuneiform and other low-resource languages. This involves developing algorithms to analyze the grammatical structure and relationships between words in sentences.
